@@ -50,7 +50,7 @@ CVLA Interactive AI Lab is an advanced educational platform for exploring Comple
 
 ```bash
 # Clone the repository
-git clone https://github.com/google-research/cvla-interactive-lab.git
+git clone https://github.com/AkshatCipher/Complex-Variables-and-Linear-Algebra-Visualizer.git
 
 # Navigate to project directory
 cd cvla-interactive-lab
@@ -140,19 +140,18 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## Contact
 
 For questions or support:
-- GitHub Issues: [Report Issues](https://github.com/google-research/cvla-interactive-lab/issues)
-- Email: cvla-support@google.com
+- GitHub Issues: [Report Issues](https://github.com/AkshatCipher/Complex-Variables-and-Linear-Algebra-Visualizer/issues)
 
 ## Citation
 
 If you use this project in your research, please cite:
 
 ```bibtex
-@software{cvla_interactive_lab_2024,
-  author = {Google Research},
+@software{cvla_interactive_lab_2025,
+  author = {AkshatCipher},
   title = {CVLA Interactive AI Lab},
-  year = {2024},
+  year = {2025},
   publisher = {GitHub},
-  url = {https://github.com/google-research/cvla-interactive-lab}
+  url = {https://github.com/AkshatCipher/Complex-Variables-and-Linear-Algebra-Visualizer.git}
 }
 ```
